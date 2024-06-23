@@ -422,10 +422,12 @@ footer{
 }
 
 .footer-image{
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 28px;
     text-align: center;
     margin-top: 50px;
-    
 }
 
 
