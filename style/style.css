@@ -52,7 +52,7 @@ manu-bar{
 }
 
 .main-drescription{
-    background-image: url("../new-year-new-me/images/banner/banner1.png");
+    background-image: url("../assets/images/banner/banner1.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 900px;
@@ -208,12 +208,11 @@ ul li {
 
 
 .Awlays-keep{
-    background-image: url("../new-year-new-me/images/watch.png");
+    background-image: url("../assets/images/watch.png");
     background-repeat: no-repeat;
     min-height: 300px;
     max-width: 100%;
     margin-top: auto;
-
     margin-top: 150px;
     justify-content: center;
     margin-left: 350px;
@@ -294,7 +293,7 @@ ul li {
  max-width: 70%;
  margin: auto;
  border-radius: 10px;
- background-image: url('../new-year-new-me/images/watch.png');
+ background-image: url('../assets/images/watch.png');
  background-size: cover;
  background-position: center;
  height: 300px; /* Adjust the height as needed */
